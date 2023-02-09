@@ -1,10 +1,7 @@
 red
 green
 blue
-<<<<<<< HEAD
 sanja
 vanja
-=======
 jovana
 milana
->>>>>>> his-branch
